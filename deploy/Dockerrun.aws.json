@@ -1,0 +1,11 @@
+{
+    "AWSEBDockerrunVersion": "1",
+    "Image": {
+      "Name": "686487091234.dkr.ecr.us-east-1.amazonaws.com/cv-reconstruction-django",
+      "Update": "true"
+    },
+    "Ports": [{
+      "ContainerPort": "8000",
+      "HostPort": "8000"
+    }]
+  } 

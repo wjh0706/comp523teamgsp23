@@ -1,0 +1,1 @@
+# usage: python manage.py test vcp_backend/tests/*Test.py
